@@ -190,7 +190,7 @@ def predict():
             
         if(flag==0):
             predout()
-            
+#
     def predout():
         global sv,labelText,pred
         
